@@ -1,4 +1,5 @@
-# Introduction-to-data-analysis
+
+
 Introduction to Data Science
 This repository contains materials for a presentation on Introduction to Data Science. The presentation covers the scope of data science, data creation, preprocessing, analysis, and visualization. It also discusses the different types of data analysis, sources of data, and common issues in data preprocessing.
 
